@@ -1,7 +1,7 @@
-Team Name: MEDI-I
+Team Name: MEDI-I,
 Team Members:
-Sayan Paul
-Samayeta Das
+Sayan Paul,
+Samayeta Das,
 Subhadip Pati
 
 The Medicare planning platform distinguishes itself through its personalized approach, flexible payment options, advanced machine learning capabilities, and the integration of generative AI. By focusing on the unique needs of each user, we simplify the Medicare planning process, making it accessible and user-friendly. Our commitment to continuous improvement through user feedback ensures that we stay at the forefront of the insurance landscape, delivering precise and relevant recommendations.
